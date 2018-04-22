@@ -1,0 +1,12 @@
+{
+    "name": "karen/world",
+    "require": {
+        "vlucas/phpdotenv": "^2.4"
+    },
+    "authors": [
+        {
+            "name": "Jillian",
+            "email": "j_david1@u.pacific.edu"
+        }
+    ]
+}
